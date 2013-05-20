@@ -1,0 +1,4 @@
+name: HungerCraftTwitchNotifier
+main: me.skipperguy12.HungerCraftTwitchNotifier.plugin.TwitchNotifierPlugin
+version: .1
+description: HungerCraft twitch.tv notifier by skipperguy12
